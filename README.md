@@ -1,6 +1,6 @@
 # ComputerVision
 ## 학부인턴십
-- 2022년 여름방학~
+- 2022년 여름방학 ~ 
 - 매주 화요일 정기회의
 
 ## 주차별 정리
@@ -28,4 +28,6 @@
 | 13주차    | 221011 | Openpose 논문 리뷰 3 - Ground Truth 생성, Bipartite Matching (ch3.4~ch3.5)          |
 | 14주차    | 221101 | Openpose extra - 이분매칭 관련) Hungarian Algorithm                                 |
 | 15주차    | 221108 | Openpose 논문 리뷰 4 - PAF (ch3.4~ch3.5)                                          |
-| 16주차    | 221115 | Opnepose extra - PAF 관련) 벡터장에서의 선적분                                           |
+| 16주차    | 221115 | Openpose extra - PAF 관련) 벡터장에서의 선적분                                           |
+
+> 공휴일이나 시험기간 2주는 쉼.
