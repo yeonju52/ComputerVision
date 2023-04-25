@@ -1,33 +1,38 @@
 # ComputerVision
-## 학부인턴십
-- 2022년 여름방학 ~ 
-- 매주 화요일 정기회의
+## Undergraduate Internship
+- Summer Vacation, 2022 ~ 
+- Regular session every Tuesday
+  > 2 weeks break during exam period or holidays 
 
-## 주차별 정리
-| 주차      | 날짜     | 컴퓨터비전, D455 카메라                                                               |
-| :------- | :------ | :----------------------------------------------------------------------------- |
-| 1주차     | 220712 | 이미지프로세싱, 이미지 센서(+D455의 이미지 센서), CFA                                           |
-| 2주차 *(py)*     | 220719 | Color Space, Image Format (+D455의 이미지포맷), Interpolation 실습                    |
-| 3주차     | 220726 | Shutter, IMU (+D455의 IMU)                                                     |
-| 4주차     | 220802 | 좌표계, 카메라 캘리브레이션, (de)projection 코드 리뷰 (by intel RealSense), D455 조사 |
+## Recent research
+- [Face Detection with YOLOv3](https://github.com/yeonju52/ComputerVision/tree/main/7_YOLO_FaceDetection(YOLOv3))
 
-| 주차      | 날짜     | 3D 회전 (오일러 - 쿼터니언)                                                            |
+## Progress (list)
+| 주차      | 날짜     | Computer Vision, D455 camera                                                               |
 | :------- | :------ | :----------------------------------------------------------------------------- |
-| 6주차 *(py)*     | 220816 | 3D rotation, 실습 - 스켈레톤 각도 측정하기                                                |
-| 7주차     | 220823 | 쿼터니언                                                                          |
-| 8주차     | 220830 | 쿼터니언 회전, 쿼터니언 보간, 오일러-쿼터니언 비교                                                 |
-| 10주차(2) | 220920 | 순허수 쿼터니언                                                                      |
-| 11주차    | 220927 | 오일러각, 짐벌락                                                                     |
+| 1주차     | 220712 | Image Porcessing, Image Sensor(+D455's), CFA                                           |
+| 2주차 *(py)*     | 220719 | Color Space, Image Format (+D455's), Interpolation (Hand-on)                    |
+| 3주차     | 220726 | Shutter, IMU (+D455's IMU)                                                     |
+| 4주차     | 220802 | Coordinate system, Camera calibration, (de)projection code review (by intel RealSense), D455 investigation |
+
+| 주차      | 날짜     | 3D rotation (Euler - Quaternion)                                                            |
+| :------- | :------ | :----------------------------------------------------------------------------- |
+| 6주차 *(py)*     | 220816 | 3D rotation, Measuring Skeleteon Angle (Hand-on)                                                |
+| 7주차     | 220823 | Quaternion                                                                         |
+| 8주차     | 220830 | Quaternion rotation, Quaternion interpolation, Comparision on Euler-quaternion                                    |
+| 10주차(2) | 220920 | pure imaginary Quaternion                                                                      |
+| 11주차    | 220927 | Euluer Angle, Gimbal Lock                                                                     |
 
 | 주차      | 날짜     | Openpose                                                                      |
 | :------- | :------ | :----------------------------------------------------------------------------- |
 | 5주차 *(py)*     | 220809 | Openpose 실습 코드 리뷰                                                             |
-| 9주차     | 220906 | Openpose 논문 리뷰 1 - 네트워크 아키텍처 (ch1~ch3.1)                                      |
-| 10주차(1) | 220920 | Openpose 논문 리뷰 2 - 네트워크 아키텍처2 (ch3.2~ch3.3)                                   |
+| 9주차     | 220906 | Openpose Paper Review 1 - Network Architecture1 (ch1~ch3.1)                                      |
+| 10주차(1) | 220920 | Openpose Paper Review 2 - Network Architecture2 (ch3.2~ch3.3)                                   |
 | 12주차    | 221004 | Opnepose extra - 네트워크 관련) CNN, intermediate supervision, ResNet               |
-| 13주차    | 221011 | Openpose 논문 리뷰 3 - Ground Truth 생성, Bipartite Matching (ch3.4~ch3.5)          |
-| 14주차    | 221101 | Openpose extra - 이분매칭 관련) Hungarian Algorithm                                 |
+| 13주차    | 221011 | Openpose 논문 리뷰 3 - Ground Truth, Bipartite Matching (ch3.4~ch3.5)          |
+| 14주차    | 221101 | Openpose extra - Bipartite Matching) Hungarian Algorithm                                 |
 | 15주차    | 221108 | Openpose 논문 리뷰 4 - PAF (ch3.4~ch3.5)                                          |
-| 16주차    | 221115 | Openpose extra - PAF 관련) 벡터장에서의 선적분                                           |
+| 16주차    | 221115 | Openpose extra - PAF) Line integral                                        |
 
-> 공휴일이나 시험기간 2주는 쉼.
+  ### YOLO
+  YOLOv1, YOLOv3, YOLOv5 code review & select YOLOv5 for face detection                                                    |
